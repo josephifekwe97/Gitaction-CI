@@ -1,4 +1,4 @@
-name: CI Pipeline for Express App
+name: CI Pipeline for Express App-test
 
 on:
   push:
